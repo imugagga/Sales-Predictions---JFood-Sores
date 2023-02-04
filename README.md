@@ -1,2 +1,2 @@
-# Sales-Predictions---JFood-Sores
+# Sales-Predictions
 Sales and Growth Predictions.
