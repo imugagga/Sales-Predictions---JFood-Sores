@@ -1,2 +1,2 @@
 # Sales-Predictions
-Sales and Growth Predictions.
+ Sales Prediction for food items
